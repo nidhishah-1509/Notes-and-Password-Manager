@@ -57,14 +57,14 @@ Main Menu:<br>
 3. Exit Program<br>
 
 Notes Manager:<br>
-- Add your thoughts<br>
-- Delete unwanted notes<br>
-- Auto-save on exit<br>
+1. Add your thoughts<br>
+2. Delete unwanted notes<br>
+3. Auto-save on exit<br>
 
 Password Manager:<br>
-- Store site logins<br>
-- Delete when not needed<br>
-- Auto-save on exit<br>
+1. Store site logins<br>
+2. Delete when not needed<br>
+3. Auto-save on exit<br>
 
 <h2>Future Improvements</h2>
 - Add encryption for stored passwords.<br>
