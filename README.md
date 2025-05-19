@@ -8,21 +8,21 @@ But not only security, but inherent flexibility are its main advantages. The Pas
 
 <h2>Main Features</h2>
 1. User Authentication <br>
-  - Register and securely log in with username and password. <br>
-  - Masks password input with asterisks (*) for privacy. <br>
+    - Register and securely log in with username and password. <br>
+    - Masks password input with asterisks (*) for privacy. <br>
 2. Notes Manager <br>
-  - Add, view, and delete up to 100 notes.<br>
-  - Auto-save and load notes from a local file.<br>
+    - Add, view, and delete up to 100 notes.<br>
+    - Auto-save and load notes from a local file.<br>
 3. Password Manager<br>
-  - Add, view, and delete passwords for websites (includes website, username, and password).<br>
-  - Stores passwords in a secure format and retrieves them at login.<br>
+    - Add, view, and delete passwords for websites (includes website, username, and password).<br>
+    - Stores passwords in a secure format and retrieves them at login.<br>
 4. Persistent Storage<br>
-  - Notes stored in notes.txt<br>
-  - Passwords stored in passwords.txt<br>
-  - User credentials stored in user.txt<br>
+    - Notes stored in notes.txt<br>
+    - Passwords stored in passwords.txt<br>
+    - User credentials stored in user.txt<br>
 
 <h2>Structure</h2>
-.
+.<br>
 ├── OOPD_Project.cpp       # Full application source code <br>
 ├── notes.txt              # Stores personal notes (auto-created)<br>
 ├── passwords.txt          # Stores passwords (auto-created)<br>
